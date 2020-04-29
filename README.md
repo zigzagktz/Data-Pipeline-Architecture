@@ -1,5 +1,5 @@
 # Data Pipeline Architecture
- This repo contains code for building a data pipeline that collects unstructured data from multiple sources and go through the whole process
+
 
 ## a)
 ![Slide 1](https://user-images.githubusercontent.com/32847030/80625215-e2f96780-8a1a-11ea-8806-70ad37254705.jpeg)
