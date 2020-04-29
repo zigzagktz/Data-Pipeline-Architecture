@@ -18,5 +18,7 @@
 
 ![Inkedimage (4)_LI](https://user-images.githubusercontent.com/32847030/80628147-ebec3800-8a1e-11ea-8710-99adeb56c829.jpg)
 
+## f)
+![dashboard](https://user-images.githubusercontent.com/32847030/80629681-31aa0000-8a21-11ea-861a-cf0a8b244bcb.JPG)
 
 
